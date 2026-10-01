@@ -21,7 +21,7 @@ A minimalist luxury "Under Development / Coming Soon" landing page for **ATELIER
 ```text
 ATELIER MONOCHROME/
 ├── assets/
-│   └── hero_editorial.jpg     # High-resolution monochrome fashion editorial background
+│   └── hero_editorial.webp     # High-resolution monochrome fashion editorial background
 ├── index.html                 # Main landing page (HTML5, CSS3, Vanilla JS)
 └── README.md                  # Project documentation
 ```
